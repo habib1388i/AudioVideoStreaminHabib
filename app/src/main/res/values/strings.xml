@@ -1,0 +1,8 @@
+<resources>
+    <string name="Musik1">Musik1</string>
+    <string name="Musik2">Musik2</string>
+    <string name="app_name">AudioVideoStreamin#Habib</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
